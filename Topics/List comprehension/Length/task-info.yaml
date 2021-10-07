@@ -1,0 +1,14 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    words = ["apple", "it", "creek", "pelican", "subsequent", "horse",
+             "apothecary"]
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6711#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 15 Sep 2021 20:59:04 UTC
+record: -1
